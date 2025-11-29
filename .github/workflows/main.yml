@@ -1,4 +1,4 @@
-name: deploy RicardoRosario
+name: deploy InazumaEleven
 
 on:
   push:
